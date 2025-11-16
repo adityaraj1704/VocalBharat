@@ -1,4 +1,4 @@
-# Indian-Voice-Assistant-Local
+# VocalBharat
 This project is a locally hosted Indian Voice Assistant designed to process and respond to voice commands in various Indian languages. The models used in this assistant are all loaded locally, ensuring that the system works offline and that data privacy is maintained. The assistant exhibits a low latency of about 2-3 seconds, providing a smooth user experience.
 
 
